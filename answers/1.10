@@ -1,0 +1,9 @@
+je n'ai pas réussis à tout exécuter,néanmoins voici mes commmandes :
+
+
+read -p "Enter your name: " yabbebeb #c'est mon username
+
+echo "Hello, yabbebeb ! Welcome to the terminal scripting world."
+chmod +x greeting_script.sh
+./greeting_script.sh
+
