@@ -1,4 +1,4 @@
 Enter your details below:
 
-* first_name: Yanis
-* last_name: Benchekroun
+* first_name: 
+* last_name: 
